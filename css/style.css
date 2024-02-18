@@ -1,0 +1,27 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+
+#content-wrap {
+  margin: auto;
+  width: 100vw;
+  max-width: 1400px;
+}
+
+#index-banner {
+  color: #FFF;
+  background-image: url('../img/bg.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  height: 80vh;
+  max-height: 800px;
+}
